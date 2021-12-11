@@ -11,6 +11,6 @@ int main()
     for(int i = n;i > 0;i--){   //this will run until i = 1
         fact = fact * i;      //this will multiply every factorial output
     }
-    cout << fact;
-    return 0;
+    cout << fact;   //this will print factorial
+    return 0;      
 }
