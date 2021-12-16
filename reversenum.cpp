@@ -11,7 +11,7 @@ int main()
     while(n > 0){
         rem = n%10;
         n = n/10;
-        cout << rem;
+        cout << rem;  //this will print reverse number
     }
     return 0;
 }
